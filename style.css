@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.header{
+    width: 100%;
+
+    
+}
+.navi{
+
+}
+
+.button{
+    display: inline-block;
+    
+}
+
+.wrapper{
+    margin: 0 50px;
+}
+
+.main{
+    margin: 30px 30px;
+}
+
+.sidemenu{
+    margin: 10px 30px;
+}
+
+.footer{
+    width: 100%;
+}
