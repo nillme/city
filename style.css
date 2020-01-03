@@ -15,17 +15,30 @@
 }
 
 .wrapper{
-    margin: 0 50px;
+    margin: 30px auto 30px;
+    width: 880px;
 }
 
 .main{
+    display: block;
     margin: 30px 30px;
+    width: 520px;
+    background-color: #888888;
 }
 
 .sidemenu{
     margin: 10px 30px;
+    width: 150px;
+    background-color: #333333;
 }
 
+.sidemenu1{
+    float: left;
+}
+
+.sidemenu2{
+    float: right;
+}
 .footer{
     width: 100%;
 }
